@@ -1,3 +1,7 @@
+.headerPrincipal {
+  background-color: #5e9edc;
+}
+
 .headerPrincipal .container {
   display: flex;
   align-items: center;
